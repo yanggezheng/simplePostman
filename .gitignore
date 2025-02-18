@@ -3,6 +3,8 @@ node_modules/
 
 # Build outputs
 dist/
+.parcel-cache
+.snowpack/
 
 # Package manager lock file
 package-lock.json
