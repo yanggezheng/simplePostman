@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "dependencies": {
+    "@codemirror/autocomplete": "^6.18.6",
+    "@codemirror/commands": "^6.2.4",
+    "@codemirror/lang-json": "^6.0.1",
+    "@codemirror/view": "^6.36.2",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "bytes": "^3.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pretty-bytes": "^6.1.1",
+    "redis": "^4.7.0",
+    "style-mod": "^4.1.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10",
+    "snowpack": "^3.8.8"
+  },
+  "name": "redis",
+  "version": "1.0.0",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

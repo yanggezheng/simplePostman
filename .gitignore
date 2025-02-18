@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+
+# Package manager lock file
+package-lock.json
+
+# Configuration files
+snowpack.config.js
+
+# Scripts and server files
+server.js
+
+# Lua script file
+exists.lua
+
+# Ignore OS-specific and IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
